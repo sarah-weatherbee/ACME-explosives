@@ -1,0 +1,40 @@
+{
+  "types": [
+      {
+          "id": "type0",
+          "category": "category0",
+          "name": "the bad words",
+          "description": "Four letter words and more"
+      },
+      {
+          "id": "type1",
+          "category": "category0",
+          "name": "condiments",
+          "description": "Condiments to irritate the one you hate"
+      },
+      {
+          "id": "type2",
+          "category": "category0",
+          "name": "from the garage",
+          "description": "God knows what you'll find in the garage"
+      },
+      {
+          "id": "type3",
+          "category": "category1",
+          "name": "the good words",
+          "description": "Win them over with dripping compliments"
+      },
+      {
+          "id": "type4",
+          "category": "category1",
+          "name": "the glitters",
+          "description": "There's not enough glitter exploding in the world"
+      },
+      {
+          "id": "type5",
+          "category": "category1",
+          "name": "the candies",
+          "description": "Sweetness, these melt in your mouth"
+      }
+  ]
+}
