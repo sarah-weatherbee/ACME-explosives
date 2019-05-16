@@ -1,0 +1,112 @@
+{
+  "products": [{
+      "you're_fired": {
+          "id": "product0",
+          "type": "type0",
+          "name": "you're fired",
+          "description": "An exploding can of angry shouts to inform someone of their job loss."
+      },
+      "you're_the_worst": {
+          "id": "product1",
+          "type": "type0",
+          "name": "you're the worst",
+          "description": "An exploding can of angry shouts to inform someone that they are the worst."
+      },
+      "curse_word_grab_bag": {
+          "id": "product2",
+          "type": "type0",
+          "name": "curse word grab bag",
+          "description": "A mystery selection of curse words to detonate in that awful neighbor's face."
+      },
+      "mustard": {
+          "id": "product3",
+          "type": "type1",
+          "name": "mustard",
+          "description": "A can of exploding mustard. Pairs well with exploding hotdogs (sold out)."
+      },
+      "chili": {
+          "id": "product4",
+          "type": "type1",
+          "name": "chili",
+          "description": "A tub of Wendy's finest under pressure."
+      },
+      "ketchup": {
+          "id": "product5",
+          "type": "type1",
+          "name": "ketchup",
+          "description": "Drop from a tall building a walk away."
+      },
+      "90's_laptops": {
+          "id": "product6",
+          "type": "type2",
+          "name": "90's laptops",
+          "description": "A truck of laptops straight from the 90's for you to spread far and wide."
+      },
+      "bats": {
+          "id": "product7",
+          "type": "type2",
+          "name": "bats",
+          "description": "Got a problem? Throw bats at it."
+      },
+      "hammers": {
+          "id": "product8",
+          "type": "type2",
+          "name": "hammers",
+          "description": "Hammer time!"
+      },
+      "you're_always_right": {
+          "id": "product9",
+          "type": "type3",
+          "name": "you're always right",
+          "description": "Give them the gift of always being right. Blow it up in their face."
+      },
+      "I_love_you": {
+          "id": "product10",
+          "type": "type3",
+          "name": "I love you!",
+          "description": "Those three words sound so sweet when detonated."
+      },
+      "You're_perfect": {
+          "id": "product11",
+          "type": "type3",
+          "name": "You're perfect",
+          "description": "Are they just plain perfect? You know they are. Let them know it too."
+      },
+      "classic_glitter": {
+          "id": "product12",
+          "type": "type4",
+          "name": "classic glitter",
+          "description": "A glitter explosion of fun for your everyday needs."
+      },
+      "uncle_sam_glitter": {
+          "id": "product13",
+          "type": "type4",
+          "name": "uncle sam glitter",
+          "description": "Show them how much you love America with this explosion of red, white and blue."
+      },
+      "rainbow_glitter": {
+          "id": "product14",
+          "type": "type4",
+          "name": "rainbow glitter",
+          "description": "A multicolored glitterbomb for that special politician in your life."
+      },
+      "chocolate_sprinkles": {
+          "id": "product15",
+          "type": "type5",
+          "name": "chocolate sprinkles",
+          "description": "An abudance of chocolate sprinkles to rain down on the masses."
+      },
+      "m_and_m's": {
+          "id": "product16",
+          "type": "type5",
+          "name": "m & m's",
+          "description": "Little pellets of happiness all around."
+      },
+      "starbursts": {
+          "id": "product17",
+          "type": "type5",
+          "name": "starbursts",
+          "description": "A mushroom cloud of starbursts at your fingertips."
+      }
+  }]
+}
